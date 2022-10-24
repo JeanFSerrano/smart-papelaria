@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Carrois+Gothic+SC&family=Roboto:wght@300;400;500&display=swap');
+
 * {
     padding: 0;
     box-sizing: border-box;
@@ -7,6 +9,7 @@
 }
 
 body {
+    font-family: 'Roboto', sans-serif;
     background-color: #f5f5f5;
     color: black;
 }
