@@ -23,7 +23,7 @@ const Home = () => {
       <Contact />
 
 
-      <aside className='fixed top-[36rem] right-4 z-10 flex flex-col items-center'>
+      <aside className='fixed top-[32rem] right-4 z-10 flex flex-col items-center'>
         <p className='font-bold'>Nosso Whatsapp!</p>
         <a target='_blank' href="https://wa.me/5527992728501">
           <BsWhatsapp size={45} fill='green' />
